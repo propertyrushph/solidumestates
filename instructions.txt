@@ -1,3 +1,0 @@
-- PIN SOLIDUM-7X9-Q4V
-- whenever a new version of investor package is ready please replace it in this same folder and name it 
-financial-brochure.pdf
